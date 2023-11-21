@@ -1,0 +1,65 @@
+3
+https://www.careermatch.com/job-prep/career-insights/articles/majoring-in-computer-science-100-careers-to-consider/\
+https://www.glassdoor.ca/Salaries/index.htm
+https://www.computerscience.org/careers/
+20
+Data Engineer
+91579
+Design systems and programs to collect and convert raw statistics and data into usable information that can be used by businesses
+Web Developer
+63621
+People who design and maintain public online websites
+Computer Hardware Engineer
+69498
+Research, design, develop, and test the physical hardware components of a PC
+Data security analyst
+71658
+Assess a company's system security by analyzing firewalls, encryption technologies, and network protocols.
+Health Information Technology 
+69604
+Works in healthcare facilities to design and improve technology used in clinical care (electronic medical records and networks for digital imaging)
+Computer Support Specialist 
+56743
+Computer user support specialists, also called help-desk technicians, usually provide technical help to non-IT computer users. 
+Game Developer 
+67158
+Design and develop video games for PC, console, and mobile. Code an engine while also giving creative input for the character design, level design
+Computer Science Professor
+106761
+Teaches Computer Science in university
+Business Intelligence Analysist
+115176
+Identifies trends in data to help business's make decisions 
+Environmental Artist
+56402
+Design the scenery and environment of a Video Game
+Artificial Intelligence Engineer 
+125000
+An artificial intelligence engineer uses algorithms and neural networkds to create AI models and machine learning programs
+DevOps Engineer
+96020
+introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates.
+User Experience Designer 
+80720
+Create products that areand technology that is usable, enjoyable, and accesible for humans.
+Forensic Computer Analayst
+81405
+Investigates cyber crime such as data breaches and other computer-based crimes.
+Nanotechnologists
+83780
+Found in engineering and medicine, they typically design technology that is on the nano scale (0.1 to 100nm).
+Network Engineer
+79801
+Plan, implement, and oversee the network that homeowners or businesses use
+Penetration Tester
+125334
+simulate cyberattacks to identify and report security flaws on computer systems, networks and infrastructure, including internet sites
+Systems analyst
+68449
+Tests sofwtare and technology to implement better, more efficient methods of helping users through IT
+Mobile App Developer
+86380
+Develops and prgrams apps for mobile use
+Application Engineer
+72799
+Design and improve software so that it is more efficient and user friendly
